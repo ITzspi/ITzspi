@@ -29,9 +29,7 @@
 
 <br/>
 
-<a href="https://github.com/ITzspi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ITzspi=dracula&show_icons=true" />
-</a>
+
 
 <h3>Onde me encontrar</h3>
 
