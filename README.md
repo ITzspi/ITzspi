@@ -34,6 +34,7 @@
 
 <h3>Onde me encontrar</h3>
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipe_avelinoo/)
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/felipe-avelino-pedaes-939288279/)
 [![Gmail Badge](https://img.shields.io/badge/-felipeavelinopedaes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeavelinopedaes@gmail.com)](mailto:felipeavelinopedaes@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/ITzspi?label=follow&style=social)](https://github.com/ITzspi)
