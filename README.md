@@ -2,6 +2,8 @@
 
 <h3>Sobre mim</h3>
 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 - 🤔 Estudando e explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **DSM (Desenvolvimento de Software e Multiplataforma)** no <a href="https://site.fatecfranca.edu.br/">Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS e começando o MySQL por enquanto**.
