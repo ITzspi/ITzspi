@@ -29,12 +29,12 @@
 
 <br/>
 
-<a href="https://github.com/iuricode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/ITzspi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ITzspi=dracula&show_icons=true" />
 </a>
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/felipe-avelino-pedaes-939288279)
-[![Gmail Badge](https://img.shields.io/badge/-felipeavelinopedaes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](felipeavelinopedaes@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/felipe-avelino-pedaes-939288279)](www.linkedin.com/in/felipe-avelino-pedaes-939288279)
+[![Gmail Badge](https://img.shields.io/badge/-felipeavelinopedaes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeavelinopedaes@gmail.com)](felipeavelinopedaes@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/ITzspi)
