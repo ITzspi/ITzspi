@@ -7,7 +7,7 @@
 - 🏆 Meu nome é Felipe Avelino Pedaes
 - 🧐 Estudando e explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **DSM (Desenvolvimento de Software e Multiplataforma)** no <a href="https://site.fatecfranca.edu.br/">Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino</a>.
-- 📖💻 &nbsp; Aprendendo sobre **HTML, CSS, MySQL, JavaScript, TypeScript, Python**.
+- 📖💻 &nbsp; Linguagens de programação ja estudadas: **HTML, CSS, MySQL, JavaScript, TypeScript, Python, PhP**.
 
 
 ## 🚀 Minhas Skills
@@ -18,6 +18,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+
 
 
 
