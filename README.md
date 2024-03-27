@@ -7,7 +7,7 @@
 - 🏆 Meu nome é Felipe Avelino Pedaes
 - 🧐 Estudando e explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **DSM (Desenvolvimento de Software e Multiplataforma)** no <a href="https://site.fatecfranca.edu.br/">Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino</a>.
-- 📖💻 &nbsp; Aprendendo mais sobre **HTML, CSS e começando o MySQL por enquanto**.
+- 📖💻 &nbsp; Aprendendo sobre **HTML, CSS, MySQL, JavaScript, TypeScript, Python**.
 
 
 ## 🚀 Minhas Skills
@@ -15,6 +15,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 
 
 
